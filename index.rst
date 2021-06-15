@@ -1,11 +1,12 @@
-.. title:: Nutanix ITSG Privat Cloud Bootcamp
+.. title:: Nutanix Fujitsu ITSG PoC
 
 .. toctree::
    :maxdepth: 2
-   :caption: Hosted PoC Infos
+   :caption: PoC Infos
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
+   1-hpoc/clusteraccess/clusteraccess
    1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
@@ -56,13 +57,13 @@
   :hidden:
 
   what_is_calm/what_is_calm
-  calm/calm_enable/calm_enable
-  calm/calm_projects/calm_projects
-  calm/calm_linux/calm_linux
-  calm/calm_win/calm_win
-  calm/calm_day2/calm_day2
-  calm/calm_marketplace/calm_marketplace
-  calm/calm_escript/calm_escript
+  calm_enable/calm_enable
+  calm_projects/calm_projects
+  calm_linux/calm_linux
+  calm_win/calm_win
+  calm_day2/calm_day2
+  calm_marketplace/calm_marketplace
+  calm_escript/calm_escript
 
 .. toctree::
   :maxdepth: 2
@@ -84,12 +85,12 @@
 .. _getting_started:
 
 ----------------------------------------------
-Herzlich willkommen auf dem Nutanix ITSG Privat Cloud PoC
+Herzlich willkommen auf dem Fujitsu/Nutanix NUIX-Analytics Hosted PoC
 ----------------------------------------------
 
-.. figure:: images/logos1.png
+.. figure:: images/logos.png
 
-Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
+Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation kennen. Sie werden Prism verwenden, um grundlegende Clusterverwaltungsaufgaben auszuführen, einschließlich Speicher und Netzwerk. Sie werden auch grundlegende Aufgaben zur Bereitstellung und Verwaltung von VMs mit Prism und AHV ausführen. Schließlich werden sie den VM-Protection untersuchen, einschließlich Snapshots und Replikation. Am Ende des Bootcamps sollten Sie die Kernkonzepte und -technologien des Nutanix Enterprise Cloud-Stacks theoretisch und praktisch erlebt haben.
 
