@@ -103,10 +103,6 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
    :widths: 33 33 33
    :header-rows: 1
 
-   .. list-table::
-   :widths: 33 33 33
-   :header-rows: 1
-
    * -
      - **Primäres** Netzwerk
      - **Sekundäres** Netzwerk
