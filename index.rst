@@ -56,7 +56,7 @@
   :name: _calm
   :hidden:
 
-  what_is_calm/what_is_calm
+  calm/what_is_calm/what_is_calm
   calm_enable/calm_enable
   calm_projects/calm_projects
   calm_linux/calm_linux
@@ -64,6 +64,7 @@
   calm_day2/calm_day2
   calm_marketplace/calm_marketplace
   calm_escript/calm_escript
+  calm/calm_karbon_cicd
 
 .. toctree::
   :maxdepth: 2
@@ -85,12 +86,12 @@
 .. _getting_started:
 
 ----------------------------------------------
-Herzlich willkommen auf dem Fujitsu/Nutanix NUIX-Analytics Hosted PoC
+Herzlich willkommen auf dem Fujitsu/Nutanix ITSG Private Cloud PoC
 ----------------------------------------------
 
-.. figure:: images/logos.png
+.. figure:: images/logos1.png
 
-Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
+Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation kennen. Sie werden Prism verwenden, um grundlegende Clusterverwaltungsaufgaben auszuführen, einschließlich Speicher und Netzwerk. Sie werden auch grundlegende Aufgaben zur Bereitstellung und Verwaltung von VMs mit Prism und AHV ausführen. Schließlich werden sie den VM-Protection untersuchen, einschließlich Snapshots und Replikation. Am Ende des Bootcamps sollten Sie die Kernkonzepte und -technologien des Nutanix Enterprise Cloud-Stacks theoretisch und praktisch erlebt haben.
 
