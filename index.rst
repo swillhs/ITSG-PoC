@@ -25,15 +25,15 @@
   :caption: Prism Pro
   :hidden:
 
-  prismops/prismops_capacity_lab
-  prismops/prismops_rightsize_lab  
+  prismops/prismops_capacity_lab/prismops_capacity_lab
+  prismops/prismops_rightsize_lab/prismops_rightsize_lab  
 
 .. toctree::
   :maxdepth: 2
   :caption: Flow
   :hidden:
   
-  flow_assign_categories_in_calm/
+  flow_assign_categories_in_calm/flow_assign_categories_in_calm
   
 .. toctree::
   :maxdepth: 2
@@ -83,8 +83,8 @@
   :caption: Prism Pro
   :hidden:
 
-  prismops/prismops_capacity_lab
-  prismops/prismops_rightsize_lab
+  prismops/prismops_capacity_lab/prismops_capacity_lab
+  prismops/prismops_rightsize_lab/prismops_rightsize_lab
 
 
 .. _getting_started:
