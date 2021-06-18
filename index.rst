@@ -67,10 +67,12 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Optional Labs
-  :name: _optional_labs
+  :caption: Prism Pro
+  :name: _prism_pro
   :hidden:
 
+prismops/prismops_capacity_lab
+prismops/prismops_rightsize_lab
 
 .. toctree::
   :maxdepth: 2
@@ -78,9 +80,6 @@
   :name: _appendix
   :hidden:
 
-  appendix/glossary
-  tools_vms/windows_tools_vm
-  tools_vms/linux_tools_vm
 
 .. _getting_started:
 
