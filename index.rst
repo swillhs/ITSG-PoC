@@ -79,6 +79,14 @@
   :caption: Appendix
   :name: _appendix
   :hidden:
+  
+  .. toctree::
+  :maxdepth: 2
+  :caption: Flow
+  :name: _flow_ws
+  :hidden:
+  
+  flow_assign_categories_in_calm/
 
 
 .. _getting_started:
