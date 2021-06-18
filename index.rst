@@ -25,8 +25,8 @@
   :caption: Prism Pro
   :hidden:
 
-  prismops/prismops_capacity_lab
-  prismops/prismops_rightsize_lab  
+  prismops/prismops_capacity_lab/prismops_capacity_lab
+  prismops/prismops_rightsize_lab/prismops_rightsize_lab  
 
 .. toctree::
   :maxdepth: 2
