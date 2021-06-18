@@ -22,7 +22,7 @@
   
 .. toctree::
   :maxdepth: 2
-  :caption: Prism Pro
+  :caption: Nutanix Prism Pro - X-Play
   :hidden:
 
   prismops/prismops_capacity_lab/prismops_capacity_lab
@@ -33,7 +33,7 @@
   :caption: Flow
   :hidden:
   
-  flow_assign_categories_in_calm/
+  flow_assign_categories_in_calm/flow_assign_categories_in_calm
   
 .. toctree::
   :maxdepth: 2
@@ -76,15 +76,7 @@
   calm/calm_day2/calm_day2
   calm/calm_marketplace/calm_marketplace
   calm/calm_escript/calm_escript
-  calm/calm_karbon_cicd
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Prism Pro
-  :hidden:
-
-  prismops/prismops_capacity_lab
-  prismops/prismops_rightsize_lab
+  calm/calm_karbon_cicd/calm_karbon_cicd
 
 
 .. _getting_started:
