@@ -23,7 +23,6 @@
 .. toctree::
   :maxdepth: 2
   :caption: Prism Pro
-  :name: _prism_pro
   :hidden:
 
   prismops/prismops_capacity_lab
@@ -32,7 +31,6 @@
 .. toctree::
   :maxdepth: 2
   :caption: Flow
-  :name: _flow_ws
   :hidden:
   
   flow_assign_categories_in_calm/
@@ -61,7 +59,6 @@
 .. toctree::
   :maxdepth: 2
   :caption: Nutanix Objects
-  :name: _objects_labs
   :hidden:
 
   objects/objects
@@ -69,7 +66,6 @@
 .. toctree::
   :maxdepth: 2
   :caption: Nutanix Calm
-  :name: _calm
   :hidden:
 
   calm/what_is_calm/what_is_calm
@@ -85,17 +81,10 @@
 .. toctree::
   :maxdepth: 2
   :caption: Prism Pro
-  :name: _prism_pro
   :hidden:
 
   prismops/prismops_capacity_lab
   prismops/prismops_rightsize_lab
-
-.. toctree::
-  :maxdepth: 2
-  :caption: Appendix
-  :name: _appendix
-  :hidden:
 
 
 .. _getting_started:
