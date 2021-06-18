@@ -71,8 +71,8 @@
   :name: _prism_pro
   :hidden:
 
-prismops/prismops_capacity_lab
-prismops/prismops_rightsize_lab
+  prismops/prismops_capacity_lab
+  prismops/prismops_rightsize_lab
 
 .. toctree::
   :maxdepth: 2
