@@ -19,7 +19,24 @@
   aosandahv/lab_deploy_workloads/lab_deploy_workloads
   aosandahv/lab_manage_workloads/lab_manage_workloads
   aosandahv/lab_data_protection/lab_data_protection
+  
+.. toctree::
+  :maxdepth: 2
+  :caption: Prism Pro
+  :name: _prism_pro
+  :hidden:
 
+  prismops/prismops_capacity_lab
+  prismops/prismops_rightsize_lab  
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Flow
+  :name: _flow_ws
+  :hidden:
+  
+  flow_assign_categories_in_calm/
+  
 .. toctree::
   :maxdepth: 2
   :caption: Nutanix Files
@@ -39,7 +56,7 @@
   :caption: Nutanix Karbon
   :hidden:
 
-  Karbon/karbon
+  karbon/karbon
 
 .. toctree::
   :maxdepth: 2
@@ -79,14 +96,6 @@
   :caption: Appendix
   :name: _appendix
   :hidden:
-  
-  .. toctree::
-  :maxdepth: 2
-  :caption: Flow
-  :name: _flow_ws
-  :hidden:
-  
-  flow_assign_categories_in_calm/
 
 
 .. _getting_started:
