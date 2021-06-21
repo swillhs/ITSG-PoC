@@ -137,7 +137,7 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - **Primäres** Netzwerk
      - **Sekundäres** Netzwerk
    * - **VLAN**
-     - 1260
+     - itsg.0 (auf Switch native Vlan1260)
      - 
    * - **Netzwerk IP Adresse**
      - 172.21.124.0
