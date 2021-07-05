@@ -78,7 +78,7 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ItsgGsti2021!
   * - **Prism Element SSH**
     - nutanix
-    - ItsgGsti2021!
+    - nutanix/4u
   * - **Prism Central Web**
     - admin
     - ItsgGsti2021!
@@ -152,11 +152,11 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - Aktiviert
      - 
    * - **DHCP Pool**
-     - 172.21.124.0  - 253
+     - 172.21.124.10  - 67
      - 
    * - **Domain**
      - NTNXLAB.local
      - 
    * - **DNS**
-     - 208.67.222.222 (OpenDNS)
+     - 172.21.124.80 (AutoDC)
      - 
