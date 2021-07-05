@@ -30,7 +30,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Flow
+  :caption: Nutanix Flow
   :hidden:
   
   flow/flow_assign_categories_in_calm/flow_assign_categories_in_calm
