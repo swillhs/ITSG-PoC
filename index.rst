@@ -33,8 +33,9 @@
   :caption: Flow
   :hidden:
   
-  flow_assign_categories_in_calm/flow_assign_categories_in_calm
-  
+  flow/flow_assign_categories_in_calm/flow_assign_categories_in_calm
+  flow/flow_secure_fiesta/flow_secure_fiesta
+
 .. toctree::
   :maxdepth: 2
   :caption: Nutanix Files
