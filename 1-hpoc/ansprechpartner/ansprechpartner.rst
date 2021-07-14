@@ -15,7 +15,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 +----------------------------------+-----------------------------------+-----------------------------------+
 | Stephan Mullins                  | Wolfgang Huse                     | Rene Gilling                      |
 +==================================+===================================+===================================+
-| .. figure:: images/swillh.png    | .. figure:: images/whuse.png      |.. figure:: images/rgilling.png    |
+| .. figure:: images/smullins.png  | .. figure:: images/whuse.png      |.. figure:: images/rgilling.png    |
 |    :width: 200px                 |    :width: 200px                  |   :width: 200px                   |
 |    :align: left                  |    :align: left                   |   :align: left                    |
 +----------------------------------+-----------------------------------+-----------------------------------+
